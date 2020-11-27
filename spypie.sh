@@ -2,7 +2,9 @@
 # $pyPi3 v1.0
 # coded by: github.com/thej0hnnywalk3r/spypie
 
+
 trap 'printf "\n";stop' 2
+
 
 banner() {
 
